@@ -6,10 +6,6 @@
 
 I am a Software Developer and currently pursuing my Engineering in Computer Science. All coding projects I make are built from ground up, I am highly passionate about Computer Science and love to contribute my part in building products which help solving real-life problems with code! I am also working on learning and staying up-to-date with all the new technologies emerging everyday!
 
-
-## ❤️ Support
-<p><a href="https://www.buymeacoffee.com/takshakmudgal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="takshakmudgal" /></a></p><br><br><br>
-
 ## ⚙️ Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takshakmudgal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="takshakmudgal-streak-stats" /></p>
 <a href="https://github.com/takshakmudgal/github-readme-stats"><img alt="takshakmudgal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=takshakmudgal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -63,3 +59,6 @@ I am a Software Developer and currently pursuing my Engineering in Computer Scie
   Ever since I was young, I have had an immense interest in computers and technology. As a child, I was always fascinated by how computers worked and how they could be used to solve complex problems. I spent countless hours tinkering with old computers and learning the basics of programming languages like HTML and Python.
   As I got older, my interest in coding grew stronger. I started taking computer science classes in high school and continued studying the subject in college. During this time, I worked on various coding projects and I'm eager to learn more about the industry and gain real-world experience. I continue to work on personal coding projects in my free time and am always looking for new challenges and opportunities to grow as a developer. I love exploring new technologies and experimenting with different coding languages and frameworks. I'm always eager to learn more and to stay up-to-date with the latest trends and developments in the industry. To stay on top of emerging technologies, I ocasionally attend coding workshops and conferences, read tech blogs and participate in online coding communities. I also enjoy collaborating with other developers on open-source projects, which not only help me to learn new things but also contribute to the coding community.
 
+
+## ❤️ Support
+<p><a href="https://www.buymeacoffee.com/takshakmudgal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="takshakmudgal" /></a></p><br><br><br>
