@@ -58,7 +58,7 @@ I am a Software Developer and currently pursuing my Engineering in Computer Scie
 <p><a href="https://www.buymeacoffee.com/takshakmudgal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="takshakmudgal" /></a></p><br><br><br>
 
 <details>
- <summary><h3>👨🏻‍💻 Takshak's Coding Journey</h3></summary>
+ <summary><h3>👨🏻‍💻 My Coding Journey</h3></summary>
   Ever since I was young, I have had an immense interest in computers and technology. As a child, I was always fascinated by how computers worked and how they could be used to solve complex problems. I spent countless hours tinkering with old computers and learning the basics of programming languages like HTML and Python.
   As I got older, my interest in coding grew stronger. I started taking computer science classes in high school and continued studying the subject in college. During this time, I worked on various coding projects and I'm eager to learn more about the industry and gain real-world experience. I continue to work on personal coding projects in my free time and am always looking for new challenges and opportunities to grow as a developer. I love exploring new technologies and experimenting with different coding languages and frameworks. I'm always eager to learn more and to stay up-to-date with the latest trends and developments in the industry. To stay on top of emerging technologies, I ocasionally attend coding workshops and conferences, read tech blogs and participate in online coding communities. I also enjoy collaborating with other developers on open-source projects, which not only help me to learn new things but also contribute to the coding community.
 </details>
