@@ -108,10 +108,13 @@ I am a Software Developer currently pursuing my Engineering in Computer Science.
 ## Other Profiles
 <p align="left">
   <a href="https://leetcode.com/takshakm/" target="blank">
-    <img align="center" src="https://i.imgur.com/2qFL21l.png" alt="takshakmudgal" height="30" width="30" style="margin-right:10px" />
+    <img align="center" src="https://i.imgur.com/2qFL21l.png" alt="takshakmudgal" height="40" width="40" style="margin-right:15px" />
   </a>
   <a href="https://www.fiverr.com/takshakmudgal" target="blank">
     <img align="center" src="https://i.imgur.com/mywPya3.png" alt="takshakmudgal" height="30" width="80" style="margin-right:10px" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01154849d15d13b5e4" target="blank">
+    <img align="center" src="https://i.imgur.com/LbixvRC.png" alt="takshakmudgal" height="50" width="50" style="margin-right:10px" />
   </a>
 </p>
 
