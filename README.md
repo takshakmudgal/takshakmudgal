@@ -118,15 +118,6 @@ I am a Software Developer currently pursuing my Engineering in Computer Science.
   </a>
 </p>
 
-<!-- Support -->
-## ❤️ Support
-<p>
-  <a href="https://www.buymeacoffee.com/takshakmudgal">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="takshakmudgal" />
-  </a>
-</p>
-<br><br><br>
-
 <details>
   <summary><h3>👨🏻‍💻 My Coding Journey</h3></summary>
   
