@@ -1,7 +1,7 @@
 <!-- Introduction -->
 # Sup!, I am Takshak Mudgal 👋🏻
 
-**`Engineering Student | Software Developer | Freelance | MERN`**
+**`Engineering Student | Software Developer | Freelance | MERN Stack | Web3`**
 
 ## 🚀 About Me
 
