@@ -1,5 +1,5 @@
 <!-- Introduction -->
-# Sup!, I am Takshak Mudgal 👋🏻
+# Sup! I am Takshak Mudgal 👋🏻
 
 **`Engineering Student | Software Developer | Freelance | MERN Stack | Web3`**
 
