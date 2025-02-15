@@ -1,6 +1,6 @@
 ### Sup! I am Takshak Mudgal 👋🏻
 
-SWE that loves to solve real-life problems with code! I constantly strive to learn and stay up-to-date with the latest technologies emerging every day.
+SWE that loves to solve real-life problems with code! I constantly strive to learn and stay up-to-date with the latest technologies and you know Dev Shenanigans in general ;)
 
 <!--
 ## ⚙️ Stats
