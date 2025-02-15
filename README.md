@@ -1,12 +1,8 @@
-<!-- Introduction -->
-# Sup! I am Takshak Mudgal 👋🏻
+### Sup! I am Takshak Mudgal 👋🏻
 
-**`Engineering Student | Software Developer | Freelance | MERN Stack | Web3`**
+SWE that loves to solve real-life problems with code! I constantly strive to learn and stay up-to-date with the latest technologies emerging every day.
 
-## 🚀 About Me
-
-I am a Software Developer currently pursuing my Engineering in Computer Science. I am highly passionate about Computer Science and love to contribute my part in building products that solve real-life problems with code! I constantly strive to learn and stay up-to-date with the latest technologies emerging every day.
-
+<!--
 ## ⚙️ Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=takshakmudgal&show_icons=true&count_private=true&theme=transparent" alt="takshakmudgal-streak-stats" />
@@ -22,8 +18,6 @@ I am a Software Developer currently pursuing my Engineering in Computer Science.
   </a>
 </p>
 
-
-<!-- Skills -->
 ## 💻 Skills
 <div align="center">
   <h2>Developer</h2>
@@ -90,7 +84,7 @@ I am a Software Developer currently pursuing my Engineering in Computer Science.
   </table>
 </div>
 
-<!-- Social Links -->
+
 ## 🔗 Connect With Me
 <p align="left">
   <a href="https://twitter.com/takshakmudgal" target="blank">
@@ -104,7 +98,7 @@ I am a Software Developer currently pursuing my Engineering in Computer Science.
   </a>
 </p>
 
-<!-- Other Profiles -->
+
 ## Other Profiles
 <p align="left">
   <a href="https://leetcode.com/takshakm/" target="blank">
@@ -127,3 +121,4 @@ I am a Software Developer currently pursuing my Engineering in Computer Science.
 
   I love exploring new technologies and experimenting with different coding languages and frameworks. I'm always eager to learn more and stay up-to-date with the latest trends and developments in the industry. To stay on top of emerging technologies, I occasionally attend coding workshops and conferences, read tech blogs, and participate in online coding communities. I also enjoy collaborating with other developers on open-source projects, which not only help me learn new things but also contribute to the coding community.
 </details>
+-->
